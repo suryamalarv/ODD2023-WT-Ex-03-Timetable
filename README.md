@@ -1,4 +1,6 @@
 # Ex-04-Timetable
+NAME: Suryamalar
+Reg no: 23013656
 ## AIM
 To Write a html webpage page to display your timetable.
 
